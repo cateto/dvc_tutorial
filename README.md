@@ -20,7 +20,7 @@ dvc init
 ```
 pip install dvc_gdrive
 dvc remote list
-dvc remote add -d mygdrive gdrive://1nsXeef7JgPZZw4QRHAA4VWF7_ISj3gff
+dvc remote add -d mygdrive gdrive://<folderID>
 ```
 
 4. add first version of data
